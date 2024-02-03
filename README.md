@@ -41,6 +41,6 @@ Used the following 5 ML Classification Models :-
 
 <img width="430" alt="image" src="https://github.com/AryanGupta30/Sampling/assets/100289349/61e7fc85-0a0f-4e1f-8f17-029105d231d6">
 
-Maximum value in the matrix: 98.18
-Row name at max value: KNeighborsClassifier
-Column name at max value: Cross-val
++ Maximum value in the matrix: 98.18
++ Row name at max value: KNeighborsClassifier
++ Column name at max value: Cross-val
