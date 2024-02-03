@@ -1,6 +1,6 @@
 # Sampling
 
-In this assignment we had to first balance the unbalance data then divide the data into 5 samples using 5 different sampling techniques.After which we had to apply 5 different machine learning models to each sample and find out which ML model gave the highest accuracy on diifernet sampling techniques.
+In this assignment we had to first balance the unbalance data then divide the data into 5 samples using 5 different sampling techniques.After which we had to apply 5 different machine learning models on each sample and find out which ML model gave the highest accuracy.
 
 ## Methods to Balance dataset
 
@@ -15,6 +15,8 @@ I have used Oversampling.
 ## Size of Samples
 I have used this Formula to calculate sample size
 <img width="467" alt="image" src="https://github.com/AryanGupta30/Sampling/assets/100289349/78d04c22-83c1-4ef0-92cd-cf541d511525">
+
+
 sample size = 384
 Hence size for 5 samples = 384*5 = 1920
 
